@@ -36,7 +36,7 @@ To get a local copy up and running, follow these simple steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/Shahriyar-Rahim/doctor-landing-page.git](https://github.com/Shahriyar-Rahim/doctor-landing-page.git)
+    git clone https://github.com/Shahriyar-Rahim/doctor-landing-page.git
     cd doctor-landing-page
     ```
 2.  **Open the `index.html` file:** Since this project uses plain HTML, CSS, and JS, you can simply open the `index.html` file in your web browser. There's no build step or development server required for basic viewing.
