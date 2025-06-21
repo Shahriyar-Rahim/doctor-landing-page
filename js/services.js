@@ -36,7 +36,7 @@ const services = [
 
 function generateServiceHTML (service) {
     return `
-    <div class="bg-white shadow-lg hover:scale-105 transition-all duration-300 cursor-pointer rounded-lg overflow-hidden">
+    <div class="bg-white shadow-lg hover:scale-105 transition-all duration-300 cursor-pointer rounded-lg overflow-x-hidden">
     <div class="p-6 text-left">
     <img src="./images/service-icon.png" alt="service icon">
     <h3 class="text-2xl font-semibold my-4">${service.title}</h3>
